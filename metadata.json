@@ -1,0 +1,8 @@
+{
+  "name": "Salimz App Store",
+  "description": "An advanced, modern app store with Salimz branding featuring AI-powered descriptions, app publishing capabilities, and a sleek Play Store-inspired interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
